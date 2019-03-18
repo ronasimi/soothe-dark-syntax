@@ -1,0 +1,15 @@
+{
+  "name": "soothe-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A soothing dark syntax theme, designed to be easy on the eyes.  Matches well with Atom Minimal UI theme, and Materia Dark GTK theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/my-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
