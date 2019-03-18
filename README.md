@@ -1,4 +1,4 @@
-# my-dark-syntax theme
+# soothe-dark-syntax theme
 
 A short description of your theme.
 
